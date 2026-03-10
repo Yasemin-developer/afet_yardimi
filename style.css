@@ -236,7 +236,7 @@
 }
 
 
-  @media (min-width:400px){
+  @media (min-width:300px){
      
  /* İnternet durumu  */
  
@@ -1004,5 +1004,6 @@ font-size: 18px;
 .acil {
   animation: acilPulse 1.5s ease-in-out infinite;
 }
+
 
 }
